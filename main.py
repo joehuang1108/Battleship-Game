@@ -21,6 +21,8 @@ list.append("Hi")
 
 # print(list)
 
+# added comment
+
 print((set(list)))
 #
 # if list:
